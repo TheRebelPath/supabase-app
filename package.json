@@ -1,7 +1,7 @@
 {
   "name": "supasmoothies",
   "version": "0.1.0",
-  "homepage": "https://github.com/TheRebelPath/supabase-app",
+  "homepage": "https://TheRebelPath.github.io/supabase-app",
   "private": true,
   "dependencies": {
     "@supabase/supabase-js": "^2.33.1",
