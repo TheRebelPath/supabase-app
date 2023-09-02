@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TheRebelPath/supabase-app/static/css/main.7a2d4557.css",
+    "main.js": "/TheRebelPath/supabase-app/static/js/main.b27869e1.js",
+    "index.html": "/TheRebelPath/supabase-app/index.html",
+    "main.7a2d4557.css.map": "/TheRebelPath/supabase-app/static/css/main.7a2d4557.css.map",
+    "main.b27869e1.js.map": "/TheRebelPath/supabase-app/static/js/main.b27869e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a2d4557.css",
+    "static/js/main.b27869e1.js"
+  ]
+}
